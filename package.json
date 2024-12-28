@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "framer-motion": "^11.0.8",
-    "lucide-react": "^0.344.0",
+    "lucide-react": "^0.469.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-intersection-observer": "^9.8.1"
